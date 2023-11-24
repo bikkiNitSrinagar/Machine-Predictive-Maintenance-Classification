@@ -6,4 +6,4 @@ You can view the deployed app here : **https://predictive-maintenance-using-mach
 # Google Colab Notebook
 Click here to open the Google Colab notebook for this project.
 
-##Kagle Dataset
+## Kagle Dataset
