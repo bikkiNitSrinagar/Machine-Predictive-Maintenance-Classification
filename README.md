@@ -4,7 +4,7 @@ This application is designed to predict machine failure for predictive maintenan
 You can view the deployed app here : **https://predictive-maintenance-using-machine-learning.streamlit.app/**
 
 # Google Colab Notebook
-Click here to open the Google Colab notebook for this project.
+Click [here] (https://colab.research.google.com/drive/1RmnU5BELnAkKlRt15Zdgl5gdDANM2wbI) to open the Google Colab notebook for this project.
 
 ## Kagle Dataset
 Click [here] (https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification) to view the dataset used in this project.
